@@ -7,13 +7,14 @@
     <zone type="left_margin" rotate="90">
    <line><del rend="strikethrough">Think</del>
    <del rend="strikethrough">not</del>
-   <del rend="strikethrough">gold</del> or flattery vile</line></zone>
+   <del rend="strikethrough">gold</del> or flattery vile</line>
+   <line><unclear reason="illegible">?W</unclear></line></zone>
 <zone type="main"> <line>Thou art not... if a thing divine</line>
 <line> Like thee, can die - thy funeral shrine</line>
 <line> Is thy  mother's <del rend="strikethrough">heart</del>
 <add place="sublinear">grief</add>
-<add place="superlinear">heart</add> & mine</line></zone>
+<add place="superlinear">heart</add> & mine</line>
 <space dim="vertical" unit="lines" extent="5"/>
 <line rend="indent1">μνημη των αγαθων αeι θαλης</line>
-<line><unclear reason="illegible">?</unclear></line>
+<line><unclear reason="illegible">?</unclear></line></zone>
 </surface>

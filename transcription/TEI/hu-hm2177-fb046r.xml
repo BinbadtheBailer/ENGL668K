@@ -4,5 +4,17 @@
 <surface xmlns="http://www.tei-c.org/ns/1.0" xmlns:mith="http://mith.umd.edu/sc/ns1#"
     xml:id="hu-hm2177-fb046r" ulx="0" uly="0" lrx="5412" lry="7216">
     <graphic url="../../images/hu-hm2177-fb046r.jpg"/>
+    <zone type="main"> <line> With what truth I may say</line>
+    <line rend="indent1"> Roma     Roma     Roma</line>
+    <line>non e piu come era prima</line>
+    <line>My lost William,</line>
+    <line> <del rend="strikethrough">Ruined</del> <del rend="strikethrough">creature</del> thou in whom</line>
+    <line>Some <del rend="strikethrough">sweet</del> <add place="superlinear">bright</add> spirit lived, & did</line>
+    <line>That decaying robe consume</line>
+    <line>Which its <del rend="strikethrough">gentle</del> <del rend="strikethrough">lus</del> 
+    <add place="superlinear">lustre faintly</add> hid</line>
+    <line><del rend="strikethrough">In the</del> <del rend="strikethrough">Thy remains</del></line>
+    <line>Here its ashes find a tomb</line>
+    <line><add place="superlinear">But be</add> <del rend="strikethrough">Under</del>neath this pyramid</line>
     
 </surface>

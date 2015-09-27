@@ -5,14 +5,14 @@
     xml:id="hu-hm2177-fb046v" ulx="0" uly="0" lrx="5412" lry="7216">
     <graphic url="../../images/hu-hm2177-fb046v.jpg"/>
     
-   <zone type= "first">
-    <del rend="strikethrough">  A melancholy gladness </del>
-    <line> Let me think that thro low seeds </line>
-    <line> Of the </line> <del rend="strikethrough"> living breathing </del>
+    <zone type= "first">
+        <del rend="strikethrough">  A melancholy gladness </del>
+        <line> Let me think that thro low seeds </line>
+        <line> Of the </line> <del rend="strikethrough"> living breathing </del>
                                     <line rend="indent3.5"> sweet flowers & sunny grass </line>
-    <line rend="strikethrough"> An unknown power may </line>
-    <line> Into these hues & scents may pass </line>
-    <line> A portion </line>
+        <line rend="strikethrough"> An unknown power may </line>
+        <line> Into these hues & scents may pass </line>
+        <line> A portion </line>
     </zone>
     
     <space dim="vertical" unit="lines" extent="2"/>
@@ -23,7 +23,8 @@
         <line> or combination of metre & </line>
         <line> languag different from those </line>
         <line> which have gone before, it </line>
-        <line> does not consist only in avoid</line>
+        <line> does not consist only in avoid</line> <unclear reason="illegible"> ing </unclear>
+        <line> a resemblance </line>    
     </zone>
     
 

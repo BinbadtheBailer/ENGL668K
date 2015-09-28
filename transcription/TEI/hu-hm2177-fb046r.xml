@@ -22,14 +22,10 @@
 <line rend="indent3">Fr<del rend="smear">om</del> thy</line>
 <line rend="indent1">Where art thou <del rend="strikethrough">gone</del> my gentle <add place="superlinear">child</add> <del rend="strikethrough">boy</del></line>
 <line rend="indent2"><del rend="strikethrough">Dissolved intothethe living weeds</del></line>
-Let me
-Whose child I think thy spirit feeds
-life [small] & mild
-Within its young [?] life intense
-love leaves
-The grass living of living flowers
-& weeds
-Among these tombs & ruins wild
-Could I believe that
+<line rend="indent2"><del rend="strikethrough">Whose child I</del> <add place="superlinear">Let me</add> think thy spirit feeds</line>
+<line rend="indent2">Within its <del rend="strikethrough">young</del> <add place="superlinear">life <del rend="strikethrough">small</del></add> life intense <add place="superlinear">& mild</add></line>
+<line rend="indent4">The <del rend="strikethrough">grass</del> <del rend="srikethrough">living</del> <add place="superlinear">love</add> of living <add place="superlinear">leaves</add> <del rend="strikethrough">flowers</del></line>
+<line rend="indent4">Among these tombs & ruins <add place="superlinear">& weeds</add> wild</line>
+<line rend="indent5"><del rend="strikethrough">Could I believe that</del></line>
 </zone>
 </surface>

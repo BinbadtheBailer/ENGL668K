@@ -7,24 +7,22 @@
     
     <zone type= "first">
         <del rend="strikethrough">A melancholy gladness</del>
-        <line> Let me think that thro low seeds </line>
-        <line> Of the <del rend="strikethrough"> living breathing</del> </line>
-                                    <line> sweet flowers & sunny grass </line>
-        <line rend="strikethrough"> An unknown power may </line>
-        <line> Into these hues & scents may pass </line>
-        <line> A portion </line>
+        <line>Let me think that thro low seeds</line>
+        <line>Of the <del rend="strikethrough"> living breathing</del></line>
+                                    <line>sweet flowers & sunny grass</line>
+        <line rend="strikethrough">An unknown power may</line>
+        <line>Into these hues & scents may pass</line>
+        <line>A portion</line>
     </zone>
-    
     <space dim="vertical" unit="lines" extent="2"/>
-    
     <zone type= "second" rotate="180">
-        <line> Originality does not consist </line>
-        <line rend="stikethrough"> in words & names, or stories </line>
-        <line> or combination of metre & </line>
-        <line> languag different from those </line>
-        <line> which have gone before, it </line>
-        <line> does not consist only in avoid <unclear reason="illegible"> ing </unclear> </line>
-        <line> a resemblance </line>    
+        <line>Originality does not consist</line>
+        <line rend="stikethrough">in words & names, or stories</line>
+        <line>or combination of metre &</line>
+        <line>languag different from those</line>
+        <line>which have gone before, it</line>
+        <line>does not consist only in avoid <unclear reason="illegible"> ing </unclear></line>
+        <line>a resemblance</line>    
     </zone>
     
 

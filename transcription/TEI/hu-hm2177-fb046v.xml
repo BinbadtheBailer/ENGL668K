@@ -8,8 +8,7 @@
     <zone type="main">
         <line rend="indent1"><del rend="strikethrough">A melancholy gladness</del></line>
         <line rend="indent1">Let me think that thro low seeds</line>
-        <line rend="indent1">Of the <mod>
-        <del rend="strikethrough"> living breathing</del><add place="sublinear">sweet flowers &amp; sunny grass</add></mod></line>
+        <line rend="indent1">Of the<mod><del rend="strikethrough"> living breathing</del><add place="sublinear">sweet flowers &amp; sunny grass</add></mod></line>
         <line rend="indent1"><del rend="strikethrough">An unknown power may</del></line>
         <line rend="indent2">Into these hues &amp; scents may pass</line>
         <line rend="indent2">A portion</line>
@@ -17,7 +16,7 @@
     <space dim="vertical" unit="lines" extent="2"/>
     <zone type="main" rotate="180">
         <line rend="indent1">Originality does not consist</line>
-        <line rend="indent1"> <del rend="stikethrough">in words &amp; names, or stories</del></line>
+        <line rend="indent1"><del rend="stikethrough">in words &amp; names, or stories</del></line>
         <line rend="indent1">or combination of metre &amp;</line>
         <line rend="indent2">languag different from those</line>
         <line rend="indent3">which have gone before, it</line>

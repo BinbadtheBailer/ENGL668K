@@ -9,14 +9,14 @@
         <line rend="indent1"><del rend="strikethrough">A melancholy gladness</del></line>
         <line rend="indent1">Let me think that thro low seeds</line>
         <linerend="indent1">Of the <del rend="strikethrough"> living breathing</del><add place="sublinear">sweet flowers &amp; sunny grass</add></line>
-        <line rend="strikethrough">An unknown power may</line>
+        <line><del> rend="strikethrough">An unknown power may</del></line>
         <line rend="indent1">Into these hues &amp; scents may pass</line>
         <line rend="indent1">A portion</line>
     </zone>
     <space dim="vertical" unit="lines" extent="2"/>
     <zone type="main" rotate="180">
         <line>Originality does not consist</line>
-        <line rend="stikethrough">in words &amp; names, or stories</line>
+        <line> <del rend="stikethrough">in words &amp; names, or stories</del></line>
         <line>or combination of metre &amp;</line>
         <line>languag different from those</line>
         <line>which have gone before, it</line>

@@ -9,18 +9,18 @@
         <line rend="indent1"><del rend="strikethrough">A melancholy gladness</del></line>
         <line rend="indent1">Let me think that thro low seeds</line>
         <line rend="indent1">Of the <del rend="strikethrough"> living breathing</del><add place="sublinear">sweet flowers &amp; sunny grass</add></line>
-        <line><del rend="strikethrough">An unknown power may</del></line>
+        <line rend="indent1"><del rend="strikethrough">An unknown power may</del></line>
         <line rend="indent2">Into these hues &amp; scents may pass</line>
         <line rend="indent2">A portion</line>
     </zone>
     <space dim="vertical" unit="lines" extent="2"/>
     <zone type="main" rotate="180">
-        <line>Originality does not consist</line>
-        <line> <del rend="stikethrough">in words &amp; names, or stories</del></line>
-        <line>or combination of metre &amp;</line>
-        <line>languag different from those</line>
-        <line>which have gone before, it</line>
-        <line>does not consist only in avoid <unclear reason="illegible"> ing </unclear></line>
-        <line>a resemblance</line>    
+        <line rend="indent1">Originality does not consist</line>
+        <line rend="indent1"> <del rend="stikethrough">in words &amp; names, or stories</del></line>
+        <line rend="indent1">or combination of metre &amp;</line>
+        <line rend="indent2">languag different from those</line>
+        <line rend="indent3">which have gone before, it</line>
+        <line rend="indent3">does not consist only in avoid <unclear reason="illegible"> ing </unclear></line>
+        <line rend="indent3">a resemblance</line>    
     </zone>
     </surface>

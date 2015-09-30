@@ -5,7 +5,7 @@
     xml:id="hu-hm2177-fb046v" ulx="0" uly="0" lrx="5412" lry="7216">
     <graphic url="../../images/hu-hm2177-fb046v.jpg"/>
     
-    <zone type="first">
+    <zone type="main">
         <del rend="strikethrough">A melancholy gladness</del>
         <line>Let me think that thro low seeds</line>
         <line>Of the <del rend="strikethrough"> living breathing</del><add place="sublinear">sweet flowers &amp; sunny grass</add></line>
@@ -14,7 +14,7 @@
         <line>A portion</line>
     </zone>
     <space dim="vertical" unit="lines" extent="2"/>
-    <zone type="second" rotate="180">
+    <zone type="main" rotate="180">
         <line>Originality does not consist</line>
         <line rend="stikethrough">in words &amp; names, or stories</line>
         <line>or combination of metre &amp;</line>

@@ -8,7 +8,8 @@
     <zone type="main">
         <line rend="indent1"><del rend="strikethrough">A melancholy gladness</del></line>
         <line rend="indent1">Let me think that thro low seeds</line>
-        <line rend="indent1">Of the <del rend="strikethrough"> living breathing</del><add place="sublinear">sweet flowers &amp; sunny grass</add></line>
+        <line rend="indent1">Of the <mod>
+        <del rend="strikethrough"> living breathing</del><add place="sublinear">sweet flowers &amp; sunny grass</add></mod></line>
         <line rend="indent1"><del rend="strikethrough">An unknown power may</del></line>
         <line rend="indent2">Into these hues &amp; scents may pass</line>
         <line rend="indent2">A portion</line>

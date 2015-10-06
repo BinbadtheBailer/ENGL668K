@@ -14,9 +14,9 @@
         <line rend="indent2">A portion</line>
         <!--<space dim="vertical" unit="lines" extent="2"/>-->
         <line rend="indent1">Originality does not consist</line>
-        <line rend="indent1"><mod><del rend="stikethrough">in words &amp; names, or stories</del></line>
-        <line rend="indent1">or combination of metre &amp;</mod></line>
-        <line rend="indent2">languag different from those</line>
+        <line rend="indent1"><mod><del rend="strikethrough">in words</del><del rend="strikethrough">&amp; names, or stories</del></mod></line>
+        <line rend="indent1">or combination of metre &amp;</line>
+        <line rend="indent2">language different from those</line>
         <line rend="indent3">which have gone before, it</line>
         <line rend="indent3">does not consist only in avoid <unclear reason="illegible"> ing </unclear></line>
         <line rend="indent3">a resemblance</line>    

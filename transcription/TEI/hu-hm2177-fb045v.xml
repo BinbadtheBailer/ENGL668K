@@ -4,7 +4,8 @@
 <surface xmlns="http://www.tei-c.org/ns/1.0" xmlns:mith="http://mith.umd.edu/sc/ns1#"
     xml:id="hu-hm2177-fb045v" ulx="0" uly="0" lrx="5412" lry="7216">
     <graphic url="../../images/hu-hm2177-fb045v.jpg"/>
-    <zone type="left" rotate="90">
+    <zone type="main">
+    <zone rotate="90">
 <line> Think not gold or flattery vile</line>
 <line> <unclear reason="illegible">?W</unclear></line></zone>
 <zone type="main"> <line rend="indent1"> Thou art not... if a thing divine</line>
@@ -14,7 +15,10 @@
 <add place="superlinear">heart</add> 
 <del rend="strikethrough">heart</del>
 </mod> &amp; mine</line>
+</zone>
+<zone>
 <space dim="vertical" unit="lines" extent="5"/>
 <line rend="indent1">μνημη των αγαθων αeι θαλης</line>
 <line rend="indent3"><unclear reason="illegible">?</unclear></line></zone>
+</zone>
 </surface>

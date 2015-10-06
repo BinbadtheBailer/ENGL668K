@@ -39,6 +39,13 @@
                                 <title></title>
                             </bibl>
                         </msItem>
+                        <physDesc>
+                             <handDesc>
+                                  <handnote>xml:id="pbs">
+                                  <persName>Percy Bysshe Shelley</persName>
+                                  </handnote>
+                             </handDesc>
+                        </physDesc>
                     </msContents>
                 </msDesc>
             </sourceDesc>

@@ -9,8 +9,8 @@
     <zone>
         <line rend="indent1"><del rend="strikethrough">A melancholy gladness</del></line>
         <line rend="indent1">Let me think that thro low seeds</line>
-        <line rend="indent1">Of the<mod><del rend="strikethrough"> living breathing</del><add place="sublinear">sweet flowers &amp; sunny grass</add></mod></line>
-        <line rend="indent1"><del rend="strikethrough">An unknown power may</del></line>
+        <line rend="indent1">Of the<mod><del rend="strikethrough"> living</del> <del rend="strikethrough">breathing</del><add place="sublinear">sweet flowers &amp; sunny grass</add></mod></line>
+        <line rend="indent1"><emph rend="underscore">An unknown power may</emph></line>
         <line rend="indent2">Into these hues &amp; scents may pass</line>
         <line rend="indent2">A portion</line>
     </zone>
@@ -21,7 +21,7 @@
         <line rend="indent1">or combination of metre &amp;</line>
         <line rend="indent2">language different from those</line>
         <line rend="indent3">which have gone before, it</line>
-        <line rend="indent3">does not consist only in avoid <unclear reason="illegible"> ing </unclear></line>
+        <line rend="indent3">does not consist only <unclear reason="illegible">in avoiding</unclear></line>
         <line rend="indent3">a resemblance</line>
     </zone>    
     </zone>

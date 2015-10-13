@@ -18,7 +18,7 @@
 <line rend="indent2"><mod><del rend="strikethrough">Under</del><add place="superlinear">But be</add>
 </mod>neath this pyramid</line>
 <line rend="indent1"><del rend="strikethrough">Lie thy bones - if <emph rend="underscore">thou</emph> canst die</del></line>
-<line rend="indent2"><delSpan rend="vertical_line" spanTo="#111"/>Rest thy bones - there is a shrine</line>
+<line rend="indent2"><delSpan rend="strikethrough" spanTo="#111"/>Rest thy bones - there is a shrine</line>
 <line rend="indent2">From thy<anchor xml:id="111"/></line>
 <line rend="indent1">Where art thou <del rend="double_strikethrough">gone</del> my gentle <mod><del rend="strikethrough">boy</del><add place="superlinear">child</add></mod></line>
 <line rend="indent2"><del rend="strikethrough">Dissolved intothethe living weeds</del></line>
